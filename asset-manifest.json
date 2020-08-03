@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/proximity-labs-stockmarket/static/css/main.5f361e03.chunk.css",
-    "main.js": "/proximity-labs-stockmarket/static/js/main.c8d044e9.chunk.js",
-    "main.js.map": "/proximity-labs-stockmarket/static/js/main.c8d044e9.chunk.js.map",
+    "main.css": "/proximity-labs-stockmarket/static/css/main.6c24af41.chunk.css",
+    "main.js": "/proximity-labs-stockmarket/static/js/main.88d8831b.chunk.js",
+    "main.js.map": "/proximity-labs-stockmarket/static/js/main.88d8831b.chunk.js.map",
     "runtime-main.js": "/proximity-labs-stockmarket/static/js/runtime-main.5974f072.js",
     "runtime-main.js.map": "/proximity-labs-stockmarket/static/js/runtime-main.5974f072.js.map",
-    "static/js/2.545736a0.chunk.js": "/proximity-labs-stockmarket/static/js/2.545736a0.chunk.js",
-    "static/js/2.545736a0.chunk.js.map": "/proximity-labs-stockmarket/static/js/2.545736a0.chunk.js.map",
+    "static/js/2.3ec4b27c.chunk.js": "/proximity-labs-stockmarket/static/js/2.3ec4b27c.chunk.js",
+    "static/js/2.3ec4b27c.chunk.js.map": "/proximity-labs-stockmarket/static/js/2.3ec4b27c.chunk.js.map",
     "index.html": "/proximity-labs-stockmarket/index.html",
-    "precache-manifest.43fbd9519664d6ad7e3b15109fda5568.js": "/proximity-labs-stockmarket/precache-manifest.43fbd9519664d6ad7e3b15109fda5568.js",
+    "precache-manifest.5311252f413e86c382ae41b0c6f0f82b.js": "/proximity-labs-stockmarket/precache-manifest.5311252f413e86c382ae41b0c6f0f82b.js",
     "service-worker.js": "/proximity-labs-stockmarket/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/proximity-labs-stockmarket/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.545736a0.chunk.js.LICENSE.txt": "/proximity-labs-stockmarket/static/js/2.545736a0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/proximity-labs-stockmarket/static/media/logo.5d5d9eef.svg"
+    "static/css/main.6c24af41.chunk.css.map": "/proximity-labs-stockmarket/static/css/main.6c24af41.chunk.css.map",
+    "static/js/2.3ec4b27c.chunk.js.LICENSE.txt": "/proximity-labs-stockmarket/static/js/2.3ec4b27c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5974f072.js",
-    "static/js/2.545736a0.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c8d044e9.chunk.js"
+    "static/js/2.3ec4b27c.chunk.js",
+    "static/css/main.6c24af41.chunk.css",
+    "static/js/main.88d8831b.chunk.js"
   ]
 }

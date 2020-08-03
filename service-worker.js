@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/proximity-labs-stockmarket/precache-manifest.43fbd9519664d6ad7e3b15109fda5568.js"
+  "/proximity-labs-stockmarket/precache-manifest.5311252f413e86c382ae41b0c6f0f82b.js"
 );
 
 self.addEventListener('message', (event) => {
